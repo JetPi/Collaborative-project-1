@@ -1,16 +1,5 @@
-body{
-    background: white
-    ;
-}
-.container{
-    background-color: lightgray; 
-    height: 20vh; 
-    align-items: center; 
-    display: flex; 
-    border-radius: 5px;"
-}
+.container-fluid{
+    height: 1700px;
+    background-size: cover;
+ }
 
-
-
-style="width: 100vh;"
-my-2
